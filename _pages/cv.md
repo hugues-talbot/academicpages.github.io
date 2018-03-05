@@ -16,7 +16,7 @@ Education
 * 1993: [Ph.D](http://www.theses.fr/1993ENMP0433) in
   [Mathematical Morphology](https://en.wikipedia.org/wiki/Mathematical_morphology)
   from
-  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [link to the manuscript](https://perso.esiee.fr/~talboth/these/talbot_these.pdf) 
+  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [(link to the manuscript)](https://perso.esiee.fr/~talboth/these/talbot_these.pdf) 
 * 2013: Habilitation in Image Processing from [Universite Paris-Est](http://www.univ-paris-est.fr/en/)
 
 Work experience
