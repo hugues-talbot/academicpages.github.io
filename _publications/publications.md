@@ -1,9 +1,8 @@
 ---
-title: "Links to various publications list"
-collection: publications
-permalink: /publication/publications
-excerpt: 'Link to publications lists.'
-date: 2018-03--1
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
 # Publication lists for Hugues Talbot
