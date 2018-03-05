@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en)
+* 1990: M.S from [Universite Pierre et Marie Curie](http://www.upmc.fr/en/)
+* 1993: [Ph.D](http://www.theses.fr/1993ENMP0433) in
+  [Mathematical Morphology](https://en.wikipedia.org/wiki/Mathematical_morphology)
+  from
+  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [link to the manuscript](https://perso.esiee.fr/~talboth/these/talbot_these.pdf) 
+* 2013: Habilitation in Image Processing from [Universite Paris-Est](http://www.univ-paris-est.fr/en/)
 
 Work experience
-======
+=====
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
