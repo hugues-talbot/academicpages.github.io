@@ -1,3 +1,11 @@
+---
+title: "Links to various publications list"
+collection: publications
+permalink: /publication/publications
+excerpt: 'Link to publications lists.'
+date: 2018-03--1
+---
+
 # Publication lists for Hugues Talbot
 
 These days it makes little sense to create publications lists by hand. There are so many great tools !
