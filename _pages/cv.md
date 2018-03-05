@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en)
