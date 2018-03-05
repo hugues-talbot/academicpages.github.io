@@ -10,3 +10,5 @@ Here is a list of sites where you can find my publications:
 <li>A site that some have described as the facebook for scientists: <a href="https://www.researchgate.net/profile/Hugues_Talbot">Researchgate</a></li>
 <li>Various other links are available in the left-hand side column</li> 
 </ul>
+
+Other than that, here is a recent publication 
