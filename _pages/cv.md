@@ -6,11 +6,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en)
+* 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en "CentraleSupelec")
 * 1990: M.S from [Universite Pierre et Marie Curie](http://www.upmc.fr/en/)
 * 1993: [Ph.D](http://www.theses.fr/1993ENMP0433) in
   [Mathematical Morphology](https://en.wikipedia.org/wiki/Mathematical_morphology)
