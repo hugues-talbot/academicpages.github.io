@@ -11,34 +11,44 @@ redirect_from:
 
 Education
 ======
-* 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en "CentraleSupelec")
-* 1990: M.S from [Universite Pierre et Marie Curie](http://www.upmc.fr/en/)
-* 1993: [Ph.D](http://www.theses.fr/1993ENMP0433) in
+* 1989: Engineering degree from [Ecole Centrale de Paris](http://www.centralesupelec.fr/en "now CentraleSupelec")
+* 1990: M.S from [Universite Pierre et Marie Curie](http://www.upmc.fr/en/ "UPMC")
+* 1993: [Ph.D](http://www.theses.fr/1993ENMP0433 "Entry") in
   [Mathematical Morphology](https://en.wikipedia.org/wiki/Mathematical_morphology)
   from
-  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [(link to the manuscript)](https://perso.esiee.fr/~talboth/these/talbot_these.pdf) 
-* 2013: Habilitation in Image Processing from [Universite Paris-Est](http://www.univ-paris-est.fr/en/)
+  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [(manuscript)](https://perso.esiee.fr/~talboth/these/talbot_these.pdf "in english") 
+  * Advisors: [Jean Serra](https://en.wikipedia.org/wiki/Jean_Serra), [Dominique Jeulin](http://cmm.ensmp.fr/~jeulin/), [Linn W. Hobbs](https://dmse.mit.edu/faculty/profile/hobbs)
+* 2013: [Habilitation](https://en.wikipedia.org/wiki/Habilitation "necessary for professorship") in Image Processing from [Universite Paris-Est](http://www.univ-paris-est.fr/en/) [(manuscript)](https://perso.esiee.fr/~talboth/these/memoire_habilitation_talbot.pdf) "in english")
 
 Work experience
 =====
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2004-2018: Professor (full in 2014), University Paris-East ESIEE
+  * Teaching Computer Science topics : languages, operating systems, algorithms, operational research, machine learning, image processing.
+  * Research in im
+* 1994-2004: Research Scientist, CSIRO Mathematical and Information Sciences, Sydney, Australia
+  * Image processing
+  * Statistics
+  * Project management
+* 1991-1992: Research Associate, Massachusetts Institute of Technology, Cambridge, USA.
+  * Advisor: [Linn W. Hobbs](https://dmse.mit.edu/faculty/profile/hobbs)
+  * Research on the materials properties of man-made vitreous fibers, on a Saint-Gobain Scholarship.
+* 1990-1994: Engineer, Isover Saint-Gobain, France
+  * Development of image-based quality tests
+  * Microscopy, Control, Experiment Design
+* 1989-1990: Junior Engineer, Gattegno Conseil, Sceaux, France
+  * Development of network adapters firmwares
+  * Development of testing methodologies
+* 1988-1989: Assistant Engineer, Automatique et Avenir Informatique, Chatenay-Malabry, France
+  * Development of an image analysis softare package (while studying full time)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Image processing, image analysis
+* Mathematical morphology
+* Optimisation, inverse problems
+* Machine learning
+* Medical imaging
+* Materials science
 
 Publications
 ======
@@ -60,4 +70,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2017-now: Senior Area Editor, [Signal Processing Letters](https://signalprocessingsociety.org/publications-resources/ieee-signal-processing-letters/ieee-signal-processing-letters)
+* 2000-2010: Area editor, [Image Analysis and Stereology](https://www.ias-iss.org/ojs/IAS)
+* 2017: Workshop Chair, [ICPR 2016](http://www.icpr2016.org/site/), Cancun, Mexico
+* 2015: Program Chair, [ISMM 2015](http://mathematicalmorphology.org/ismm2015/ "with Laurent Najman")
+* 2003: General Chair, [DICTA 2003](http://staff.itee.uq.edu.au/lovell/aprs/dicta2003/index.html)
+* 2002: Program Chair, [ISMM 2002](https://books.google.fr/books?id=L1AYpP47NT8C)
+* 2004-present: reviewer for all 4 major Computer Vision conferences (CVPR, ICCV, ECCV, ACCV)
+* 1994-present: reviewer for most journals in image processing, computer vision, including IEEE TPAMI, IEEE TIP, MedIA, TMI, JMIV, SIAM Imaging, etc.
