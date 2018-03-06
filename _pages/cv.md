@@ -22,9 +22,10 @@ Education
 
 Work experience
 =====
-* 2004-2018: Professor (full in 2014), University Paris-East ESIEE
+* 2004-2018: Professor (full in 2014), Universit&eacute; Paris-Est ESIEE
   * Teaching Computer Science topics : languages, operating systems, algorithms, operational research, machine learning, image processing.
-  * Research in im
+  * Research in image processing, image analysis, medical imaging, materials science
+  * Optimisation, Machine learning
 * 1994-2004: Research Scientist, CSIRO Mathematical and Information Sciences, Sydney, Australia
   * Image processing
   * Statistics
