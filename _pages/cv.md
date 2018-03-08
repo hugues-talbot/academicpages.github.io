@@ -16,9 +16,11 @@ Education
 * 1993: [Ph.D](http://www.theses.fr/1993ENMP0433 "Entry") in
   [Mathematical Morphology](https://en.wikipedia.org/wiki/Mathematical_morphology)
   from
-  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [(manuscript)](https://perso.esiee.fr/~talboth/these/talbot_these.pdf "in english") 
+  [Ecole des Mines de Paris](http://www.mines-paristech.eu/). [(manuscript)](https://perso.esiee.fr/~talboth/these/talbot_these.pdf "in french") 
   * Advisors: [Jean Serra](https://en.wikipedia.org/wiki/Jean_Serra), [Dominique Jeulin](http://cmm.ensmp.fr/~jeulin/), [Linn W. Hobbs](https://dmse.mit.edu/faculty/profile/hobbs)
-* 2013: [Habilitation](https://en.wikipedia.org/wiki/Habilitation "necessary for professorship") in Image Processing from [Universite Paris-Est](http://www.univ-paris-est.fr/en/) [(manuscript)](https://perso.esiee.fr/~talboth/these/memoire_habilitation_talbot.pdf) "in english")
+* 2013: [Habilitation](https://en.wikipedia.org/wiki/Habilitation "necessary for professorship") in Image Processing
+  from [Universite Paris-Est](http://www.univ-paris-est.fr/en/)
+  [(manuscript)](https://perso.esiee.fr/~talboth/these/memoire_habilitation_talbot.pdf "in english") 
 
 Work experience
 =====
