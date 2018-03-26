@@ -15,6 +15,7 @@ Here is a list of sites where you can find my publications:
 <li>Various other links are available in the left-hand side column</li> 
 </ul>
 
+{% comment %}
 Other than that, here is a recent publication 
 
 {% if author.googlescholar %}
@@ -26,3 +27,5 @@ Other than that, here is a recent publication
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% endcomment %}
