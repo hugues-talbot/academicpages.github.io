@@ -66,7 +66,10 @@ Code 1
 Here you will find verbose, straightforward, numpy-based code for the
 simplex.
 
-[Python Simplex solver](/files/simplexe.py)
-[Python Notebook](/files/Simplexe.ipynb)
+Here is the basic code, [a Python Simplex solver](/files/simplexe.py),
+with no claim with respect to efficiency. Here is a 
+[Python Notebook](/files/Simplexe.ipynb), with worked out examples.
 
-I recommend you try the Python Notebook version.
+I recommend you try the Python Notebook version. Here is the
+[online rendering](https://nbviewer.jupyter.org/urls/hugues-talbot.github.io/files/Simplexe.ipynb)
+of this notebook. 
