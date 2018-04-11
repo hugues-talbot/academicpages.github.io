@@ -47,6 +47,6 @@ Solving LP problems with spreadsheets, duality:
 Code 1
 ====
 
-[Python Simplex solver](/files/simplex.py)
+[Python Simplex solver](/files/simplexe.py)
 [Python Notebook](/files/Simplexe.ipynb)
 
