@@ -21,6 +21,13 @@ Lecture 2
 
 [The Simplex algorithm](/files/02_simplexe_en.pdf)
 
+Tutorial 1
+======
+
+Simplex algorithm, examples, formulations: [Tutorial 1 text](/files/TD1-algo_en.pdf)
+
+Solution: [Tutorial 1 solution](/files/TD1-solution.pdf)
+
 Lecture 3
 ======
 
@@ -30,4 +37,9 @@ Lecture 4
 ======
 
 [Duality](/files/04_duality_en.pdf)
+
+Tutorial 2
+======
+
+Solving LP problems with spreadsheets, duality: [Tutorial 2 text](/files/TD2_optim_en.pdf)
 
