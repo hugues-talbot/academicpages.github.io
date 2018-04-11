@@ -11,10 +11,14 @@ location: "Saclay, France"
 Discrete Optimisation
 ===============
 
-Discrete optimisation is a very large topic, that includes for example
+Discrete optimisation is a very large topic, that includes in particular
 ways to formulate and solve combinatorial search and enumeration problem, which
 are ubiquitous in Computer Science, Applied Mathematics, Operational
 Research, Machine Learning, and more.
+
+If you've ever wondered how to program a Sudoku solver for instance,
+and how complex it would be, this course will tell you exactly how to
+do it.
 
 In this course, we begin with linear programming, which is a starting
 point for many discrete-based algorithms. We consider the contraints
