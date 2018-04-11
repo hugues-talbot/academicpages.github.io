@@ -41,5 +41,12 @@ Lecture 4
 Tutorial 2
 ======
 
-Solving LP problems with spreadsheets, duality: [Tutorial 2 text](/files/TD2_optim_en.pdf)
+Solving LP problems with spreadsheets, duality:
+[Tutorial 2 text](/files/TD2_optim_en.pdf)
+
+Code 1
+====
+
+[Python Simplex solver](/files/simplex.py)
+[Python Notebook](/files/Simplexe.ipynb)
 
