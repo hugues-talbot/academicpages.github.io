@@ -87,3 +87,10 @@ Lecture 6
 -------
 
 [Solution of Integer Programming problems](/files/06_resolution_en.pdf)
+
+Tutorial 3
+-------
+
+Third tutorial, on integer programming
+
+[Tutorial 3 text](/files/TD3-algo_en.pdf)
