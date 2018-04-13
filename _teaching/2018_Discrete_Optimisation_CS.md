@@ -77,3 +77,13 @@ with no claim with respect to efficiency. Here is a
 I recommend you try the Python Notebook version. Here is the
 [online rendering](https://nbviewer.jupyter.org/urls/hugues-talbot.github.io/files/Simplexe.ipynb)
 of this notebook. 
+
+Lecture 5
+-------
+
+[Formulation of Integer Programming problems](/files/05_ip_formulation_en.pdf)
+
+Lecture 6
+-------
+
+[Solution of Integer Programming problems](/files/06_resolution_en.pdf)
