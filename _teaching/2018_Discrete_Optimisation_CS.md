@@ -66,7 +66,8 @@ Solving LP problems with spreadsheets, duality:
 [Tutorial 2 text](/files/TD2_optim_en.pdf)
 
 Code 1
---------
+------
+
 Here you will find verbose, straightforward, numpy-based code for the
 simplex.
 
@@ -79,7 +80,7 @@ I recommend you try the Python Notebook version. Here is the
 of this notebook. 
 
 Lecture 5
--------
+--------
 
 [Formulation of Integer Programming problems](/files/05_ip_formulation_en.pdf)
 
@@ -89,8 +90,19 @@ Lecture 6
 [Solution of Integer Programming problems](/files/06_resolution_en.pdf)
 
 Tutorial 3
--------
+--------
 
-Third tutorial, on integer programming
-
+This tutorial is on integer programming
 [Tutorial 3 text](/files/TD3-algo_en.pdf)
+
+
+Tutorial 4, with Maria Vakalopoulou.
+------------------------------
+
+Please thank Dr. Maria Vakalopoulou, who is standing in for me today.
+
+This tutorial is also an assignment, due Monday the 7th of May. You
+are welcome to send me email if you need any help, in addition to the
+session with Maria Vakalopoulou.
+
+[Tutorial 4 text](/files/TD4_cs_en.pdf).
