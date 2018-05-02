@@ -111,3 +111,11 @@ Lecture 7
 -------
 
 [Formulation of Transport Problems](/files/07_transport_formulation_en.pdf)
+
+Sudoku solver
+-----------
+
+Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It requires
+[cvxopt](http://cvxopt.org/install/index.html).
+
+
