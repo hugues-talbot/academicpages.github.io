@@ -106,3 +106,8 @@ are welcome to send me email if you need any help, in addition to the
 session with Maria Vakalopoulou.
 
 [Tutorial 4 text](/files/TD4_cs_en.pdf).
+
+Lecture 7
+-------
+
+[Formulation of Transport Problems](/files/07_transport_formulation_en.pdf)
