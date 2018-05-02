@@ -119,3 +119,12 @@ Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It re
 [cvxopt](http://cvxopt.org/install/index.html).
 
 
+Challenges 
+---------
+
+Students can elect to participate to a relevant Kaggle challenge. I
+recommend this new
+[particle tracking](https://www.kaggle.com/c/trackml-particle-identification)
+challenge. The top prize is 12,000\$ !
+
+Other relevant challenges will be posted here.
