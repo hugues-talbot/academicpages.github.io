@@ -119,6 +119,18 @@ Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It re
 [cvxopt](http://cvxopt.org/install/index.html).
 
 
+Lecture 8
+-------
+
+[Resolution of transport problems](/files/08_transport_solution_en.pdf)
+
+
+Tutorial 5
+----------
+
+An introduction to [solving the TSP](/files/TD5-tsp.pdf)
+
+
 Challenges 
 ---------
 
@@ -128,3 +140,15 @@ recommend this new
 challenge. The top prize is 12,000\$ !
 
 Other relevant challenges will be posted here.
+
+Alternative project
+-------------------
+
+The Kaggle challenge is obviously very challenging. An alternative project is to implement
+a peg-solitaire solver.
+
+Here are a couple of articles on how this might be done [Article 1](/files/Peg_Solitaire_1.pdf) ; [Article 2](/files/Peg_Solitaire_2.pdf).
+
+
+
+
