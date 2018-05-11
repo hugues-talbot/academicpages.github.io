@@ -131,6 +131,12 @@ Tutorial 5
 An introduction to [solving the TSP](/files/TD5-tsp.pdf)
 
 
+Lecture 9
+--------
+
+[Network problems,   a generalization](/files/09_network_problems_en.pdf)
+
+
 Challenges 
 ---------
 
