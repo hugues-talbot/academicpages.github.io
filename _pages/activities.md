@@ -8,7 +8,8 @@ redirect_from:
  - /activities.html
 ---
 
-{% include base_path %}
+My hobbies / activities
+=======================
 
 * I'm an avid reader. One of my favourite series of books is the [discworld](https://en.wikipedia.org/wiki/Discworld) set of novels. They are both funny and deeply philosophical. Its author, [Terry Pratchett](https://en.wikipedia.org/wiki/Terry_Pratchett), recently passed away (in 2015). I wish that progress in [medical imaging](https://en.wikipedia.org/wiki/Medical_imaging), to which I contribute, would have been more helpful in his case.
 
