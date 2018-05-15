@@ -1,12 +1,11 @@
 Other activities
 ===============
 ---
-layout: archive
-title: "Hobbies"
 permalink: /activities/
-author_profile: true
+title: "Hobbies"
 redirect_from:
-  - /resume
+ - /hobbies/
+ - /activities.html
 ---
 
 {% include base_path %}
