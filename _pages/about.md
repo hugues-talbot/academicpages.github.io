@@ -14,7 +14,7 @@ Teacher and researcher
 Teaching
 -------
 
-Currently I'm a professor of computer science at [ESIEE Paris](https://www.esiee.fr). Computer science is a very wide area. These days I mostly teach applied mathematics subjects such as [Mathematical Optimisation](https://en.wikipedia.org/wiki/Mathematical_optimization) as well as image and [computer-vision](https://en.wikipedia.org/wiki/Computer_vision) related fields. In the past I have taught more traditionally computer-related topics such as [computer languages](https://en.wikipedia.org/wiki/Programming_language) and [operating systems](https://en.wikipedia.org/wiki/Operating_system). You can learn about my teaching in the [teaching](/teaching/) tab above.
+Currently I'm a professor of AI and Computer Vision at [CentraleSupélec](https://www.centralesupelec.fr). Computer vision is a very wide area. These days I mostly teach applied mathematics subjects such as [Mathematical Optimisation](https://en.wikipedia.org/wiki/Mathematical_optimization) as well as image and [computer-vision](https://en.wikipedia.org/wiki/Computer_vision) related fields. In the past I have taught more traditionally computer-related topics such as [computer languages](https://en.wikipedia.org/wiki/Programming_language) and [operating systems](https://en.wikipedia.org/wiki/Operating_system). You can learn about my teaching in the [teaching](/teaching/) tab above.
 
 Research
 -------
