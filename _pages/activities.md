@@ -1,5 +1,3 @@
-Other activities
-===============
 ---
 permalink: /activities/
 title: "Hobbies"
