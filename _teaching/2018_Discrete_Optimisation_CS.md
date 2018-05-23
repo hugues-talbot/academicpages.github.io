@@ -31,6 +31,27 @@ and efficient, such as transport and flow problems.
 All along the course we provide numerous examples and tutorial sessions.
 
 
+
+Lectures
+--------
+
+| Entry                                                  | Description                                                 |
+| --------                                               |------------------------------------------------------------ |
+| [Introduction](/files/01_intro_optim_en.pdf)           | Introduction to optimisation                                |
+| [The Simplex algorithm](/files/02_simplexe_en.pdf)     | An algorithm for solving linear programs                    |
+| [Limit cases of the Simplex](/files/03_limites_en.pdf) | The limiting cases for the simplex, like how to start it    |
+| [Duality](/files/04_duality_en.pdf)                    | LP and duality. Interpretation and algorithms               |
+| [Integer Programming](/files/05_ip_formulation_en.pdf) | Formulation and examples                                    |
+| [IP resolution](/files/06_resolution_en.pdf)           | Resolution of Integer Programs: Cuts and Branch & Bound     |
+| [Transport Problems](/files/07_transport_formulation_en.pdf) | Transport problems are a simpler case of LP/IP        |
+| [Resolution of transport problems](/files/08_transport_solution_en.pdf) | Resolution of transport problems           |
+| [Network problems](/files/09_network_problems_en.pdf)  | Network problems, including maxflow and the network simplex |
+
+
+
+
+
+
 Lecture 1
 --------
 
