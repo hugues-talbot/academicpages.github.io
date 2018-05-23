@@ -48,43 +48,27 @@ Lectures
 | [Network problems](/files/09_network_problems_en.pdf)  | Network problems, including maxflow and the network simplex |
 
 
+Tutorials
+---------
+
+| Entry                                                  | Description                                                 |
+| --------                                               |------------------------------------------------------------ |
+| [Tutorial 1 text](/files/TD1-algo_en.pdf)              | Simplex algorithm, examples, formulations                   |
+| [Tutorial 2 text](/files/TD2_optim_en.pdf)             | Solving LP problems with spreadsheets. Duality              |
+| [Tutorial 3 text](/files/TD3-algo_en.pdf)              | This tutorial is on integer programming                     |
+| [Tutorial 4 text](/files/TD4_cs_en.pdf)                | This tutorial is *assignment 1*                             |
+| [solving the TSP](/files/TD5-tsp.pdf)                  | Solving the TSP. This is *assignment 2*                     |
 
 
+Solutions
+---------
 
+| Entry                                                  | Description                                                 |
+| --------                                               |------------------------------------------------------------ |
+| [Tutorial 1 solution](/files/TD1-solution.pdf)         | Solution to the first tutorial |
+| [a Python Simplex solver](/files/simplexe.py)          | Basic, commented Simplex solver |
+| [Sudoku solver](/files/Sudoku_ilp.ipynb)               | It requires [cvxopt](http://cvxopt.org/install/index.html). |
 
-Lecture 1
---------
-
-
-[Introduction](/files/01_intro_optim_en.pdf)
-
-Lecture 2
---------
-
-[The Simplex algorithm](/files/02_simplexe_en.pdf)
-
-Tutorial 1
---------
-
-Simplex algorithm, examples, formulations: [Tutorial 1 text](/files/TD1-algo_en.pdf)
-
-Solution: [Tutorial 1 solution](/files/TD1-solution.pdf)
-
-Lecture 3
---------
-
-[Limit cases of the Simplex](/files/03_limites_en.pdf)
-
-Lecture 4
---------
-
-[Duality](/files/04_duality_en.pdf)
-
-Tutorial 2
---------
-
-Solving LP problems with spreadsheets, duality:
-[Tutorial 2 text](/files/TD2_optim_en.pdf)
 
 Code 1
 ------
@@ -100,38 +84,14 @@ I recommend you try the Python Notebook version. Here is the
 [online rendering](https://nbviewer.jupyter.org/urls/hugues-talbot.github.io/files/Simplexe.ipynb)
 of this notebook. 
 
-Lecture 5
---------
-
-[Formulation of Integer Programming problems](/files/05_ip_formulation_en.pdf)
-
-Lecture 6
--------
-
-[Solution of Integer Programming problems](/files/06_resolution_en.pdf)
-
-Tutorial 3
---------
-
-This tutorial is on integer programming
-[Tutorial 3 text](/files/TD3-algo_en.pdf)
 
 
-Tutorial 4, with Maria Vakalopoulou.
-------------------------------
+Thanks
+------
 
-Please thank Dr. Maria Vakalopoulou, who is standing in for me today.
+Special thank to Dr. Maria Vakalopoulou and Pr. Fragkiskos Maillaros.
 
-This tutorial is also an assignment, due Monday the 7th of May. You
-are welcome to send me email if you need any help, in addition to the
-session with Maria Vakalopoulou.
 
-[Tutorial 4 text](/files/TD4_cs_en.pdf).
-
-Lecture 7
--------
-
-[Formulation of Transport Problems](/files/07_transport_formulation_en.pdf)
 
 Sudoku solver
 -----------
@@ -140,29 +100,10 @@ Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It re
 [cvxopt](http://cvxopt.org/install/index.html).
 
 
-Lecture 8
--------
-
-[Resolution of transport problems](/files/08_transport_solution_en.pdf)
-
-
-Tutorial 5
-----------
-
-An introduction to [solving the TSP](/files/TD5-tsp.pdf)
-
-
-Lecture 9
---------
-
-[Network problems,   a generalization](/files/09_network_problems_en.pdf)
-
-
 Challenges 
 ---------
 
-Students can elect to participate to a relevant Kaggle challenge. I
-recommend this new
+Students can elect to participate to a relevant Kaggle challenge. I recommend this new
 [particle tracking](https://www.kaggle.com/c/trackml-particle-identification)
 challenge. The top prize is 12,000\$ !
 
