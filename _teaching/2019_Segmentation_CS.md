@@ -32,7 +32,7 @@ Tutorials
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Tutorial 1 text](/files/Tutorial_segmentation_en.pdf)              | Hierarchical  segmentation                 |
+|01| [Tutorial 1 text](/files/Segmentation_Tutorial.ipynb)              | Various segmentation                   |
 
 
 Solutions and code
