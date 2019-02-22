@@ -1,7 +1,7 @@
 ---
 title: "Morphologie Mathematique"
 collection: teaching
-type: "Lecture"
+type: "Course"
 permalink: /teaching/2019_Morphologie_CS
 venue: "Centrale Supelec"
 date: 2010-02-22
