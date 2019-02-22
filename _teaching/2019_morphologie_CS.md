@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2019_Morphologie_CS
 venue: "Centrale Supelec"
-date: 2010-02-22
+date: 2019-02-22
 location: "Gif sur Yvette, France"
 ---
 
