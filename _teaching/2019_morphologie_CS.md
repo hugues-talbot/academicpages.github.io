@@ -29,7 +29,7 @@ TD
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Tutorial 1 text](/files/MM_Graphes.ipynb)              | Various segmentation                   |
+|01| [Tutorial 1 text](/files/Morpho_TD1.ipynb)              | Classe de graphe, opérateurs sur graphes                   |
 
 
 Solutions and code
