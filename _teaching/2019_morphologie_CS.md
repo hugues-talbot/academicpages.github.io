@@ -21,7 +21,7 @@ Cours
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Introduction](/files/01_Graphes_Dilatation.pdf)           | Introduction à la morphologie mathématique: graphes et opérateurs                  |
+|01| [Introduction](/files/01_Graphes_Dilatation.pdf)           | Introduction à la morphologie mathématique: graphes et opérateurs             |02| [Filtrage](/files/02_Ouverture_NdG.pdf)     | Filtres morphologiques: ouvertures, fermetures, niveaux de gris |
 
 
 TD
@@ -29,7 +29,8 @@ TD
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Tutorial 1 text](/files/Morpho_TD1.ipynb)              | Classe de graphe, opérateurs sur graphes                   |
+|01| [Tutorial 1 notebook](/files/Morpho_TD1.ipynb)              | Classe de graphe, opérateurs sur graphes                   |
+|02| [Tutorial 2 notebook](/files/Morpho_TD2.ipynb)              | Images, filtrage |
 
 
 Solutions and code
