@@ -49,7 +49,7 @@ Solutions and code
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
 |01| [Tutorial 1 solution](/files/Tutorial_segmentation_en-solution.pdf)         | Solution to the first tutorial |
-|02| [classe de graphes](files/morphograph.py) | Classe de graphes pour morphologie mathematique |
+|02| [classe de graphes](/files/morphograph.py) | Classe de graphes pour morphologie mathematique |
 
 Code 1
 ------
