@@ -42,6 +42,7 @@ Images
 |01| [Image 1](/files/images/mongraphe.txt)              | micro graphe 5x5                  |
 |02| [Bandes](/files/images/bands.txt)              | petite image de bandes |
 |03| [FP](/files/images/FP.txt)                     | image empreinte digitale |
+|04] [FB NDG](/files/images/FingerNDG.pgm)	    | image empreinte digitale en niveaux de gris |
 
 Solutions and code
 ---------
