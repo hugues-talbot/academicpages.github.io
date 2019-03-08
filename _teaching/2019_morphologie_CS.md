@@ -33,6 +33,8 @@ TD
 |01| [Tutorial 1 notebook](/files/Morpho_TD1.ipynb)              | Classe de graphe, opérateurs sur graphes                   |
 |02| [Tutorial 2 notebook](/files/Morpho_TD2.ipynb)              | Images, filtrage |
 |03| [Tutorial 3 notebook](/files/Morpho_TD3.ipynb)              | Compositions, filtrage niveau de gris |
+|04| [Tutorial 4 notebook](/files/Morpho_TD4.ipynb)              | scikit-image, operations de base, reconstruction |
+
 
 Images
 ---------
@@ -43,6 +45,7 @@ Images
 |02| [Bandes](/files/images/bands.txt)              | petite image de bandes |
 |03| [FP](/files/images/FP.txt)                     | image empreinte digitale |
 |04] [FB NDG](/files/images/FingerNDG.pgm)	    | image empreinte digitale en niveaux de gris |
+
 
 Solutions and code
 ---------
