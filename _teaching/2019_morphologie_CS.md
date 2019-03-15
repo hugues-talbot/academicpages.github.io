@@ -38,6 +38,7 @@ TD
 
 TP
 ---------
+
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
 |01| [TP 1 notebook](/files/Morpho_TP1.ipynb)              | Résidus, segmentation                   |
