@@ -24,6 +24,7 @@ Cours
 |01| [Introduction](/files/01_Graphes_Dilatation.pdf)       | Introduction à la morphologie mathématique: graphes et opérateurs |
 |02| [Filtrage](/files/02_Ouverture_NdG.pdf)                | Filtres morphologiques: ouvertures, fermetures, niveaux de gris |
 |03| [Connexite](/files/03_Connexite.pdf)                   | Connexite, filtres connexes |
+|04| [Segmentation](/files/04_Segmentation.pdf)		    | Segmentation, ligne de partage des eaux |
 
 TD
 ---------
