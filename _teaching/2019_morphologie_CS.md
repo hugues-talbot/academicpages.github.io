@@ -36,6 +36,11 @@ TD
 |03| [Tutorial 3 notebook](/files/Morpho_TD3.ipynb)              | Compositions, filtrage niveau de gris |
 |04| [Tutorial 4 notebook](/files/Morpho_TD4.ipynb)              | scikit-image, operations de base, reconstruction |
 
+TP
+---------
+|  | Entry                                                  | Description                                                 |
+|--| --------                                               |------------------------------------------------------------ |
+|01| [TP 1 notebook](/files/Morpho_TP1.ipynb)              | Résidus, segmentation                   |
 
 Images
 ---------
