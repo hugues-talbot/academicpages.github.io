@@ -61,7 +61,7 @@ Solutions and code
 |--| --------                                               |------------------------------------------------------------ |
 |01| [Tutorial 1 solution](/files/Tutorial_segmentation_en-solution.pdf)         | Solution to the first tutorial |
 |02| [classe de graphes](/files/morphograph.py) | Classe de graphes pour morphologie mathematique |
-|03| [Correction partielle TP1](/files/Morpho_TP1_correction_1.ipynb | Correction partielle TP1 |
+|03| [Correction partielle TP1](/files/Morpho_TP1_correction_1.ipynb) | Correction partielle TP1 |
 
 Code 1
 ------
