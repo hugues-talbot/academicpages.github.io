@@ -30,7 +30,9 @@ and efficient, such as transport and flow problems.
 
 All along the course we provide numerous examples and tutorial sessions.
 
-
+Slack
+-----
+Invitation to the Slack for the course: https://bit.ly/2DMK9jf
 
 Lectures
 --------
