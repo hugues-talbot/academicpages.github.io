@@ -32,7 +32,7 @@ All along the course we provide numerous examples and tutorial sessions.
 
 Slack
 -----
-Invitation to the Slack for the course: https://bit.ly/2DMK9jf
+Invitation to the Slack for the course: gbit.ly/2DMK9jf
 
 Lectures
 --------
