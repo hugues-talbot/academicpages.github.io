@@ -102,6 +102,24 @@ Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It re
 [cvxopt](http://cvxopt.org/install/index.html).
 
 
+
+Peg Solitaire project
+-------------------
+
+A interesting project is to implement a peg-solitaire solver.
+
+Here are a couple of articles on how this might be done [Article 1](/files/Peg_Solitaire_1.pdf) ; [Article 2](/files/Peg_Solitaire_2.pdf).
+
+
+Signal, image processing project 
+--------------------
+
+A second project (choose only one) is to use transport problems (max-flow problems) to solve signal and image processing
+problems.
+
+Here are two useful articles [Interactive graph cuts](/files/interactive_graphcuts.pdf) and [energies minimizable by graph cuts](/files/what_energies_graphcuts.pdf) to get started.
+
+
 Challenges 
 ---------
 
@@ -110,15 +128,6 @@ Students can elect to participate to a relevant Kaggle challenge. I recommend th
 challenge. The top prize is 12,000\$ !
 
 Other relevant challenges will be posted here.
-
-Alternative project
--------------------
-
-The Kaggle challenge is obviously very challenging. An alternative project is to implement
-a peg-solitaire solver.
-
-Here are a couple of articles on how this might be done [Article 1](/files/Peg_Solitaire_1.pdf) ; [Article 2](/files/Peg_Solitaire_2.pdf).
-
 
 
 
