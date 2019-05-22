@@ -117,7 +117,7 @@ Signal, image processing project
 A second project (choose only one) is to use transport problems (max-flow problems) to solve signal and image processing
 problems.
 
-Here are two useful articles [Interactive graph cuts](/files/interactive_graphcuts.pdf) and [energies minimizable by graph cuts](/files/what_energies_graphcuts.pdf) to get started.
+Here are two useful articles [Interactive graph cuts](/files/interactive_graphcuts.pdf) and [energies minimizable by graph cuts](/files/what_energies_graphcuts.pdf) to get started. Here is a book chapter which is better illustrated [Graph cuts in vision](/files/GC_vision_th_applications.pdf).
 
 
 Challenges 
