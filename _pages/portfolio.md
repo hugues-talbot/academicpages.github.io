@@ -29,6 +29,11 @@ in large datasets.
 
 ![An image of a very low surface brighness galaxy with unusual dark matter content](/files/portfolio/KKS2000-04.png)
 
+This beautiful image is of a very low surface brightness galaxy. It was
+thought to have an unusually low Dark Matter content, although our
+project helped establish that it may actually be fairly normal. The
+inset is from the Hubble space telescope.
+
 ### Software
 
 I'm constantly writing some software, here are some repository for
