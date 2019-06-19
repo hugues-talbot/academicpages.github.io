@@ -1,19 +1,20 @@
 ---
-layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+redirected_from:
+	- /research.html
 ---
 
 ## Research
 
 I'm a researcher in [computer vision](https://en.wikipedia.org/wiki/Computer_vision), which is a very wide field. My interests include:
 
-    * AI - Machine learning
-    * Medical imaging
-    * Image segmentation
-    * Optimisation
-    * Mathematical morphology
+ * AI - Machine learning 
+ * Medical imaging 
+ * Image segmentation
+ * Optimisation
+ * Mathematical morphology
 
 I'll try and give a bit of context around these items
 
@@ -29,9 +30,9 @@ context is to help medical doctors discover and diagnose diseases, as well as tr
 Some diseases do not have an immediate imaging aspect but many do. In the last few years, I've been involved in
 projects around:
 
-    * The vascular system of the brain via the [Vivabrain](https://anr.fr/Projet-ANR-12-MONU-0010) project. See also [here](http://icube-vivabrain.unistra.fr/index.php/Presentation).
-    * The vascular system of the heart
-    * Skin lesions classification, in particular for diagnosing melanoma.
+ * The vascular system of the brain via the [Vivabrain](https://anr.fr/Projet-ANR-12-MONU-0010) project. See also [here](http://icube-vivabrain.unistra.fr/index.php/Presentation).
+  * The vascular system of the heart
+  * Skin lesions classification, in particular for diagnosing melanoma.
 
 More recently, I've been working in Oncology (cancer therapy) in collaboration with physicians from [Institut Gustave Roussy](https://www.gustaveroussy.fr/en) (IGR).
 
