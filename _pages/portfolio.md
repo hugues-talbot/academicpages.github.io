@@ -24,7 +24,10 @@ in large datasets.
   project. This project involves AI, big data and astronomy ! The
   objective of this project is to bring automation to many processes
   in the science of astronomy, particularly for discovering very low
-  surface brightness objects, to bring 
+  surface brightness objects. This has implications for dark matter
+  theories.
+
+![An image of a very low surface brighness galaxy with unusual dark matter content](/files/portfolio/KKS2000-04.png)
 
 ### Software
 
