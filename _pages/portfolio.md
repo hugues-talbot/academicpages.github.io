@@ -12,7 +12,16 @@ present projects I have been involved with
 * The ANR
   [Vivabrain](http://icube-vivabrain.unistra.fr/index.php/Home)
   project. The [RORPO](http://path-openings.github.io/RORPO/) operator was a useful contribution from this project.
-  
+
+These videos show the results of this operator for detecting blood
+vessels in the brain and in the heart:
+
+<center>
+<iframe width="420" height="315" src="//www.youtube.com/embed/PCJ77tWCeLU" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/Y51f6qQ0Hm8" frameborder="0" allowfullscreen></iframe>
+</center>
+
+
 * The ANR GraphSIP project . This stands for
 [Graph Signal Processing](https://graphsip.greyc.fr). The objective of
 this project is to develop signal processing on graphs, particularly
