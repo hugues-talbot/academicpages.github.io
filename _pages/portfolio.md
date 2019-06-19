@@ -9,7 +9,10 @@ present projects I have been involved with
 
 ### Recent projects
 
-* The ANR [Vivabrain](http://icube-vivabrain.unistra.fr/index.php/Home) project.
+* The ANR
+  [Vivabrain](http://icube-vivabrain.unistra.fr/index.php/Home)
+  project. The [RORPO](http://path-openings.github.io/RORPO/) operator was a useful contribution from this project.
+  
 * The ANR GraphSIP project . This stands for
 [Graph Signal Processing](https://graphsip.greyc.fr). The objective of
 this project is to develop signal processing on graphs, particularly
@@ -55,6 +58,8 @@ topology and mathematical morphology.
   library. This library in C++ 
 
 ![Mean curvature on the "dragon" shape](/files/portfolio/dragon512.png)
+
+* The [Path Openings](https://github.com/path-openings) operators repository. 
 
 * My more [personal projects](https://github.com/hugues-talbot) on github.
 
