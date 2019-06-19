@@ -15,7 +15,7 @@ present projects I have been involved with
 this project is to develop signal processing on graphs, particularly
 in large datasets.
 
-/files/portfolio/NeuroimagingGraph.png
+![A complex graph derived from neural data](/files/portfolio/NeuroimagingGraph.png)
 
 * The ANR CoMeDIC project. This stands for
 [Converging Metrics in Discrete Calculus](https://www.lama.univ-smb.fr/comedic/)
@@ -32,7 +32,7 @@ I'm constantly writing some software, here are some repository for
 general use for software I've been involved with.
 
 * The [Imview](https://sourceforge.net/projects/imview/) image
-  viewer. This is a scientific viewer for Windows, Linux and MacOS. I
+  viewer written in C++. This is a scientific viewer for Windows, Linux and MacOS. I
   wrote this essentially between 1997 and 2014, It is part of the
   Debian project. 
 
@@ -40,13 +40,13 @@ general use for software I've been involved with.
   link:
   [Pink documentation](https://perso.esiee.fr/~coupriem/Pink/doc/html/index.html).
 
-This library includes many algorithms in digital geometry, digital
+This C/C++ library includes many algorithms in digital geometry, digital
 topology and mathematical morphology.
 
-* The
-[DGTAL][(https://dgtal.org/), a powerful digital geometry library.
+* The [DGTAL](https://dgtal.org/) library, a powerful digital geometry
+  library. This library in C++ 
 
-/files/portfolio/dragon512.png
+![Mean curvature on the "dragon" shape](/files/portfolio/dragon512.png)
 
 {% comment %}
 {% include base_path %}
