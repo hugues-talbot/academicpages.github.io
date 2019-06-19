@@ -48,6 +48,13 @@ topology and mathematical morphology.
 
 ![Mean curvature on the "dragon" shape](/files/portfolio/dragon512.png)
 
+* My more personal projects on github:
+https://github.com/hugues-talbot
+
+### Student projects
+
+Coming soon !
+
 {% comment %}
 {% include base_path %}
 
