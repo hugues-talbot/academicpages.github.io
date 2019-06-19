@@ -4,8 +4,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Portfolio
-
 In this section I shall post some interesting links to a few past and
 present projects I have been involved with
 

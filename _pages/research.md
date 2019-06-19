@@ -2,11 +2,8 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-redirected_from:
-	- /research.html
 ---
 
-## Research
 
 I'm a researcher in [computer vision](https://en.wikipedia.org/wiki/Computer_vision), which is a very wide field. My interests include:
 
