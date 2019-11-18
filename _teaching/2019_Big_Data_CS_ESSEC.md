@@ -42,7 +42,7 @@ Lectures
 |03| [MapReduce](/files/BigData/03_Distributed_Computing_Hadoop_part2.pdf) | Map-Reduce: Functional Programming for Big Data      |
 |04| [Spark](/files/BigData/04_Distributed_Computing_Spark.pdf)               | Spark and Resilient Distributed Datasets  |
 |05| [PageRank](/files/BigData/05_Distributed_Computing_Pagerank.pdf) | PageRank, a distributed graph-based algorithm     |
-|06| [Ecosystem](/files/06_Distributed_Databases_Hadoop_Ecosystem.pdf)           | Beyond MapReduce, the Hadoop Zoo       |
+|06| [Ecosystem](/files/BigData/06_Distributed_Databases_Hadoop_Ecosystem.pdf)           | Beyond MapReduce, the Hadoop Zoo       |
 
 
 Tutorials
