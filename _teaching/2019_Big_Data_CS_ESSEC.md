@@ -70,9 +70,9 @@ Real big data is not possible on your own computer, hence we have provided credi
 
 Register by clicking this [link](https://centralesupelec.rosettahub.com/registration/index.xhtml?suborg=CENTRALESUPELEC-DSBA) with your provided CentraleSupelec mail account as identifier.
 
-To start and connect to a Jupyter Notebook, [follow these instructions](files/BigData/jupyter_redirection_instructions.txt)
+To start and connect to a Jupyter Notebook, [follow these instructions](files/BigData/jupyter_redirection_instructions.pdf)
 
-To debug Hadoop programs, [try these instructions](/files/BigData/Debugging\ Hadoop\ Programs.pdf)
+To debug Hadoop programs, [try these instructions](/files/BigData/Debugging_Hadoop_Programs.pdf)
 
 
 Thanks
