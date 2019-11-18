@@ -1,0 +1,78 @@
+## How to connect to a Jupyter notebook on a Rosetta Virtual Machine
+
+A- From a MacOS / Linux computer 
+
+1- Get the connection data from the Rosetta web page, for example
+
+Ssh Command for Linux	
+ssh ubuntu@vm-34-240-170-195.rosettavm.com -i private-keys-m-ff072d96-94f3-4ee3-807b-3aa15b405eff-0.pem
+
+
+2- Download the .pem file (there is a link to it on the Rosetta page)
+
+3- Change its permission
+
+chmod 0600 *.pem
+
+4- Connect to the distant virtual machine 
+
+ssh ubuntu@vm-34-240-170-195.rosettavm.com -i private-keys-m-ff072d96-94f3-4ee3-807b-3aa15b405eff-0.pem
+
+You should get a new prompt. Make sure you are running Linux
+
+5- type 'uname'
+it should return
+
+Linux
+
+6- Start a jupyter notebook
+
+jupyter notebook --no-browser --port=8887
+
+NOTES:
+o The "--no-browser" means jupyter will not attempt to start a Web navigator on the distant machine, which would be useless (we can't access it)
+o The "--port=8887" is a network number, the number is arbitrary > 1024
+o The jupyter server will give you a password, like this:
+
+http://localhost:8887/?token=5a477b6d5944f163a314aa488220787ff7c72c298181eab0
+
+
+7- On a *new terminal* window or tab, connect again performing this time a "port redirection"
+
+Type:
+
+ssh ubuntu@vm-34-240-170-195.rosettavm.com -i \ private-keys-m-ff072d96-94f3-4ee3-807b-3aa15b405eff-0.pem \
+-N -L localhost:8888:localhost:8887
+
+Note that you need to substitute your own VM name and .pem file
+
+NOTES:
+o -N means do not start a new shell (prompt)
+o -L  localhost:8888:localhost:8887 redirects the distant 8887 port (given above) to the local 8888 port. Both numbers are arbitrary > 1024
+
+8- Use any local navigator (Google Chrome, Explorer, etc)
+
+connect to
+
+localhost:8888
+
+where 8888 is the number given above
+
+9- Copy-paste the password from the connection line
+
+http://localhost:8887/?token=5a477b6d5944f163a314aa488220787ff7c72c298181eab0
+
+here the password is the long string starting with 5a...eab0
+
+
+B- For Windows computer, the instructions are nearly the same, simply replace the
+"ssh" command with the "putty.exe" one
+
+example, step 7 becomes:
+
+putty.exe vm-34-240-170-195.rosettavm.com -P 22 -l ubuntu \
+-i private-keys-m-ff072d96-94f3-4ee3-807b-3aa15b405eff-0.ppk -N -L localhost:8888:localhost:8887
+
+The last two options (-N and -L) are the same as for the MacOS/Linux instructions.
+
+To perform a copy from a Linux putty terminal, just highlight what you want to copy with the mouse, it is automatically copied. A right click performs a paste.
