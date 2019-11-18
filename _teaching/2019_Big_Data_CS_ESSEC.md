@@ -70,9 +70,10 @@ participants for 2019-2020 should already be registered. Log in with your Centra
 AWS
 ---
 
-Real big data is not possible on your own computer, hence we have provided credits for you on AWS.
+Big data is not really possible on your own computer, hence we have provided credits for you on Amazon Web Services (AWS), Amazon's Elastic Computing Cloud (EC2). We have
+configured and made available a virtual machine for you. Instructions will be given during lectures.
 
-Register by clicking this [link](https://centralesupelec.rosettahub.com/registration/index.xhtml?suborg=CENTRALESUPELEC-DSBA) with your provided CentraleSupelec mail account as identifier.
+Register on AWS via the RosettaHub system, by following this [link](https://centralesupelec.rosettahub.com/registration/index.xhtml?suborg=CENTRALESUPELEC-DSBA) with your provided CentraleSupelec mail account as identifier.
 
 To start and connect to a Jupyter Notebook, [follow these instructions](files/BigData/jupyter_redirection_instructions.pdf)
 
