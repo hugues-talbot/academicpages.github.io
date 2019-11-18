@@ -37,7 +37,7 @@ Lectures
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Introduction](/files/01_intro_optim_en.pdf)           | General introduction to Big Data                            |
+|01| [Introduction](/files/BigData/01_Introduction_to_Big_Data.pdf)           | General introduction to Big Data                            |
 |02| [Hadoop](/files/BigData/02_Distributed_Computing_Hadoop_part1.pdf)     | Hadoop: A framework for Big Data            |
 |03| [MapReduce](/files/BigData/03_Distributed_Computing_Hadoop_part2.pdf) | Map-Reduce: Functional Programming for Big Data      |
 |04| [Spark](/files/BigData/04_Distributed_Computing_Spark.pdf)               | Spark and Resilient Distributed Datasets  |
