@@ -4,7 +4,7 @@ collection: teaching
 type: "Full course"
 permalink: /teaching/2019_Discrete_Big_Data_CS_ESSEC
 venue: "Centrale Supelec - ESSEC"
-date: 2011-10-04
+date: 2019-10-04
 location: "Saclay, France"
 ---
 
@@ -27,10 +27,10 @@ such as PageRank.
 Help
 -----
 
-Throughout the course, support, help, further examples and general communication is
+Throughout the course, support, help, videos, supplementary material, further examples and general communication is
 supported on a Slack Workspace.
 
-Invitation to the Slack for the course: https://bit.ly/2AXiutS
+Invitation to the Slack for the course [here](https://bit.ly/2AXiutS).
 
 Lectures
 --------
@@ -56,6 +56,12 @@ Tutorials
 |03| [Tutorial 3](/files/BigData/Spark_tutorial_2019.zip)   | Tutorial 3: introduction to Spark                           |
 |04| [Tutorial 4](/files/BigData/Tutorial_Spark_ML_2019.ipynb) | Tutorial 4: Machine Learning on Spark                    |
 |05| [Tutorial 5](/files/BigData/mr_pagerank-master.zip)       | Tutorial 5: Pagerank in Hadoop and Spark on AWS          |
+
+Assigments and grading
+----------------------
+
+Assignemnts and grading are provided through the Edunao platform. Follow this [link](https://centralesupelec.edunao.com/course/view.php?id=804). All
+participants for 2019-2020 should already be registered. Log in with your CentraleSupelec account.
 
 AWS
 ---
