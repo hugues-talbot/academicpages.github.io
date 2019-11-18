@@ -1,5 +1,5 @@
 ---
-title: "Big Data"
+title: "Big Data - Technology and Applications"
 collection: teaching
 type: "Full course"
 permalink: /teaching/2019_Discrete_Big_Data_CS_ESSEC
@@ -9,7 +9,7 @@ location: "Saclay, France"
 ---
 
 Big Data - Distributed computing and databases
-=================================
+----------------------------------------------
 
 Big Data is more than a buzzword, it is a set of distributed computing
 techniques allowing developers to solve practical problems at a scale

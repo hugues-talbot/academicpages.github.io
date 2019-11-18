@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2019_Segmentation_CS
 venue: "Centrale Supelec"
-date: 2010-02-14
+date: 2019-02-14
 location: "Gif sur Yvette, France"
 ---
 
