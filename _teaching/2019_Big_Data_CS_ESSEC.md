@@ -11,15 +11,19 @@ location: "Saclay, France"
 Big Data - Distributed computing and databases
 ----------------------------------------------
 
-Big Data is more than a buzzword, it is a set of distributed computing
-techniques allowing developers to solve practical problems at a scale
-commensurable with that of the entire Internet. It forms the basis of
-the fortune of the very large Web era multinationals: Google, Amazon,
-Facebook.
+Big Data is much more than a buzzword, it is a set of distributed
+computing techniques allowing developers to solve practical problems
+at a scale commensurable with that of the entire Internet. These
+problems would not fit on any single computer, be it the most powerful
+on Earth. Instead, Big Data is all about bringing algorithms to the
+data and not the other way around.  This way of thinking has formed
+the basis of the fortune of some the most influencial Web era
+multinationals: Google, Amazon, Facebook ; but it is a generic tool,
+useful in open-source environment as well as startups, SMEs, etc.
 
 In this course, we learn the frameworks of Big Data, what it really
 represents, how this comes together works with a functional outlook
-work: very large databases with HDFS, distributed computing with
+framework: very large databases with HDFS, distributed computing with
 Hadoop and Spark. We leverage cloud computing and build simple,
 practical, but large-scale software suitable for computing clusters
 such as PageRank.
