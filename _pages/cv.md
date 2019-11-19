@@ -24,6 +24,10 @@ Education
 
 Work experience
 =====
+* 2018-present: Full Professor, CentraleSup&eacute;lec, Universit&acute; Paris Saclay
+  * Teaching Optimisation, AI, BigData, Distributed Computing
+  * Member of the OPIS Inria team.
+  * Research in medical image computing, computer vision, image processing, machine learning including deep learning.
 * 2004-2018: Professor (full in 2014), Universit&eacute; Paris-Est ESIEE
   * Teaching Computer Science topics : languages, operating systems, algorithms, operational research, machine learning, image processing.
   * Research in image processing, image analysis, medical imaging, materials science
