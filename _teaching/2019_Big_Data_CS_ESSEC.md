@@ -8,8 +8,7 @@ date: 2019-10-04
 location: "Saclay, France"
 ---
 
-<img alt="ESSEC Business School" src="/files/BigData/ESSEC_Logo_Transparent.png" height="60">
-<img alt="CentraleSupeelc" src="/files/BigData/CentraleSupelec_Logo_Transparent.png" height="60">
+<img alt="ESSEC Business School" src="/files/BigData/ESSEC_Logo_Transparent.png" height="40"><img alt="CentraleSupelec" src="/files/BigData/CentraleSupelec_Logo_Transparent.png" height="40">
 
 
 Big Data - Distributed computing and databases
