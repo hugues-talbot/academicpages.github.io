@@ -13,11 +13,12 @@ location: "Saclay, France"
 Big Data - Distributed computing and databases
 ----------------------------------------------
 
-This course is part of the MSc [Data Science and Business Analytics](https://www.centralesupelec.fr/sites/default/files/msc-dsba_web.pdf) offered by Essec Business School and CentraleSupelec
-
-<img alt="ESSEC Business School" src="/files/BigData/ESSEC_Logo_Transparent.png" width="60" height="60" />
-
-<img alt="CentraleSupelec" src="/files/BigData/CentraleSupelec_Logo_Transparent.png" width="120" height="60" />
+<div>
+<img alt="ESSEC Business School" src="/files/BigData/ESSEC_Logo_Transparent.png" width="60" height="60" /><img alt="CentraleSupelec" src="/files/BigData/CentraleSupelec_Logo_Transparent.png" width="120" height="60" />
+</div>
+This course is part of the MSc [Data Science and Business
+Analytics](https://www.centralesupelec.fr/sites/default/files/msc-dsba_web.pdf)
+offered by Essec Business School and CentraleSupelec
 
 
 Big Data is much more than a buzzword, it is a set of distributed
