@@ -34,5 +34,4 @@ Availability
 
 Here is a calendar of my activities, if you want to contact me at an opportune time
 
-<iframe src="https://calendar.google.com/calendar/embed?src=hugues.talbot%40esiee.fr&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>.
-
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%237986CB&amp;ctz=Europe%2FParis&amp;src=aHVndWVzLnRhbGJvdEBlc2llZS5mcg&amp;color=%233366CC&amp;mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
