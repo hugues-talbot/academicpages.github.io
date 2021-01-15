@@ -24,7 +24,7 @@ Lectures
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Introduction](/files/Segmentation_2019.pdf)           | Introduction to optimisation                                |
+|01| [Introduction](/files/Segmentation_2021.pdf)           | Introduction to optimisation                                |
 
 
 Tutorials
@@ -32,7 +32,7 @@ Tutorials
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Tutorial 1 text](/files/Segmentation_Tutorial.ipynb)              | Various segmentation                   |
+|01| [Tutorial 1 text](/files/Segmentation_Tutorial_Student.ipynb)              | Various segmentation                   |
 
 
 Solutions and code
