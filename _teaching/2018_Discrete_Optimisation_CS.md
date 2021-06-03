@@ -69,7 +69,7 @@ Solutions and code
 |--| --------                                               |------------------------------------------------------------ |
 |01| [Tutorial 1 solution](/files/TD1-solution.pdf)         | Solution to the first tutorial |
 |02| [a Python Simplex solver](/files/simplexe.py)          | Basic, commented Simplex solver |
-|03| [Sudoku solver](/files/Sudoku_ilp.ipynb)               | This code requires [cvxopt](http://cvxopt.org/install/index.html). |
+|03| [Sudoku solver](/files/Sudoku_student_ilp.ipynb)               | This code requires [cvxopt](http://cvxopt.org/install/index.html). |
 
 
 Code 1
